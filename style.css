@@ -307,7 +307,7 @@ h2 {
   }
 } 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px )and (max-width: 1000px) {
 
   .top {
     height: 80vh;
